@@ -63,7 +63,7 @@ Use it to **learn better, revise faster, and think deeper**.
 ---
 
 ### 4. Export as pdf
-![step4](assets/step4.gif)  
+![step4](https://github.com/Abhiiishek-rana/abhiiishek-rana/blob/main/fail-up%20asset/s4.gif)  
 > Next, click on "Generate PDF" — this will take you to the Notes section.
 > From there, you can easily open and view your generated notes.
 > {you can also access this with the notes button and  you can also delete your notes by right click and select delete}
