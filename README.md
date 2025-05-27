@@ -11,7 +11,7 @@
 ## ✨ Flex
 
 <!-- Main capability showcase -->
-![fail-up-demo](assets/demo.gif)
+![fail-up-demo](https://github.com/Abhiiishek-rana/abhiiishek-rana/blob/main/fail-up%20asset/demo.gif)
 
 ---
 
