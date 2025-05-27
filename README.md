@@ -57,7 +57,7 @@ Use it to **learn better, revise faster, and think deeper**.
 ---
 
 ### 3. Generate Notes  
-<img src="https://github.com/Abhiiishek-rana/abhiiishek-rana/blob/main/fail-up%20asset/s3.gif" width="600" height="350">
+<img src="https://github.com/Abhiiishek-rana/abhiiishek-rana/blob/main/fail-up%20asset/s3.gif" width="600" height="400">
 > Click on create notes buttton and it will start creating notes for you
 
 ---
