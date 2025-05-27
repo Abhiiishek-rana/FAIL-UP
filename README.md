@@ -38,7 +38,7 @@ Use it to **learn better, revise faster, and think deeper**.
 ## ⚡ Quick Guide
 
 ### 1. Settings   
-![step1](assets/step1.gif)  
+![step1](https://github.com/Abhiiishek-rana/abhiiishek-rana/blob/main/fail-up%20asset/step1.gif)  
 > Click on the Settings button and choose your preferred service.
 > If you’re unsure or using a low-spec device that can’t handle ```qwen3:8B or qwen3:4B```, we recommend selecting the OpenRouter API Key option — it’s free and easy to set up.
 > If you're comfortable with Ollama and know your way around local models, go for the Local LLM option.
@@ -47,7 +47,7 @@ Use it to **learn better, revise faster, and think deeper**.
 ---
 
 ### 2. Built-in YouTube Playback 
-![step2](assets/step2.gif)  
+![step2](https://github.com/Abhiiishek-rana/abhiiishek-rana/blob/main/fail-up%20asset/step2.gif)  
 > Click the YouTube button to open and watch videos right inside the app.
 > {you can also sign in}
 > Search for vidoe and open it
